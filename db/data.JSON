@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "nombre": "guitarra",
+        "precio": 250000,
+        "imagen": "./imagenes/Guitarraacustica.jpeg"
+    },
+    {
+        "id": 2,
+        "nombre": "g. electrica",
+        "precio": 250000,
+        "imagen": "./imagenes/guitarra-electrica.webp"
+    },
+    {
+        "id": 3,
+        "nombre": "bajo",
+        "precio": 250000,
+        "imagen": "./imagenes/bajo.webp"
+    },
+    {
+        "id": 4,
+        "nombre": "violin",
+        "precio": 250000,
+        "imagen": "./imagenes/violin.webp"
+
+    },
+    {
+        "id": 5,
+        "nombre": "contrabajo",
+        "precio": 250000,
+        "imagen": "./imagenes/contrabajo.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "ukelele",
+        "precio": 250000,
+        "imagen": "./imagenes/ukelele.webp"
+    },
+    {
+        "id": 7,
+        "nombre": "banjo",
+        "precio": 250000,
+        "imagen": "./imagenes/banjo.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "bateria",
+        "precio": 250000,
+        "imagen":"./imagenes/bateria.webp"
+    },
+    {
+        "id": 8,
+        "nombre": "pandereta",
+        "precio": 250000,
+        "imagen": "./imagenes/pandereta.webp"
+    },
+    {
+        "id": 9,
+        "nombre": "triangulo",
+        "precio": 250000,
+        "imagen": "./imagenes/triangulo.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "saxofon",
+        "precio": 250000,
+        "imagen": "./imagenes/saxofon.webp"
+    },
+    {
+        "id": 11,
+        "nombre": "armonica",
+        "precio": 250000,
+        "imagen": "./imagenes/armonica.webp"
+    },
+    {
+        "id": 12,
+        "nombre": "flauta",
+        "precio": 250000,
+        "imagen": "./imagenes/flauta.webp"
+    },
+    {
+        "id": 13,
+        "nombre": "sikus",
+        "precio": 250000,
+        "imagen": "./imagenes/sikus.webp"
+    },
+    {
+        "id": 14,
+        "nombre": "teclado",
+        "precio": 250000,
+        "imagen": "./imagenes/teclado.webp"
+    },
+    {
+        "id": 15,
+        "nombre": "microfono",
+        "precio": 250000,
+        "imagen": "./imagenes/microfono.jpg"
+    }
+ 
+]
